@@ -2,3 +2,8 @@
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,byabcde.com
+
+#binance
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,binance.info
+DOMAIN-KEYWORD,binance
